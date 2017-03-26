@@ -4,7 +4,7 @@ body {
   font-family: sans-serif; }
 
 .navbar-inverse {
-  background-color: royalblue;
+  background-color: firebrick;
   border: none; }
   .navbar-inverse .navbar-nav > li > a {
     color: #ffffff; }
@@ -28,5 +28,5 @@ body {
     color: #333; }
 
 .btn-primary {
-  background-color: royalblue;
+  background-color: firebrick;
   border-color: transparent; }
