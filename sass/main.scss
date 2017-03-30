@@ -26,6 +26,7 @@ body {
 }
 
 .jumbotron {
+    margin-bottom: 0px;
     
     h1 {
         font-weight: 700;
@@ -37,7 +38,8 @@ body {
 }
 
 .firstRow {
-    padding: 20px 0;
+    padding: 60px 0;
+    border-bottom: 1px solid #eee;
     
     h2 {
         font-weight: 700;
