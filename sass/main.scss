@@ -1,3 +1,9 @@
+$colorRed: firebrick;
+$colorGreen: #167F39;
+
+$mainColor: $colorGreen;
+
+
 body { 
     padding-top: 50px;
     font-size: 16px;
@@ -5,7 +11,7 @@ body {
 }
 
 .navbar-inverse {
-    background-color: firebrick;
+    background-color: $mainColor;
     border: none;
     
     .navbar-nav > li > a {
@@ -58,6 +64,6 @@ body {
 }
 
 .btn-primary {
-    background-color: firebrick;
+    background-color: $mainColor;
     border-color: transparent;
 }
